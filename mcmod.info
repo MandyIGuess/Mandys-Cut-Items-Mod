@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "nostalgia_mod",
+    "name": "Removed & Unused Mod 1.1.71",
+    "description": "This ",
+    "version": "1.1.8",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "VaatiYT",
+      "MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": []
+  }
+]
