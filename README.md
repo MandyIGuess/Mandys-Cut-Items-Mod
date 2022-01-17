@@ -1,5 +1,6 @@
-# Mandys-Cut-Items-Mod
-This mod is a remake of my 'Removed & Unused Mod' that added, well, removed and unused things back into the game. The issue with R&U was that I made the textures for things from scratch (Also I didn't know how to do texture shading back then so it looked very flat and ugly) instead of using the original textures. Things were a mess, so I officially canceled it when it's MCreator workspace got corrupted, rendering updates impossible to do. I have a release here of the mod's final version if you want to compare it to this new mod. You can find it in the Releases tab!
+# Mandy's-Cut-Items-Mod
+This mod is a remake of my 'Removed & Unused Mod' that added, well, removed and unused things back into the game. The issue with R&U was that I made the textures for things from scratch (Also I didn't know how to do texture shading back then so it looked very flat and ugly) instead of using the original textures. Things were a mess, so I officially canceled it when it's MCreator workspace got corrupted, rendering updates impossible to do. I have a release here of the mod's final version if you want to compare it to this new mod. You can find it in the Releases tab, the second to last one down the list. More info about the mod can be found here: https://mcreator.net/node/64554
+
 
 ## How To Set Up
 
