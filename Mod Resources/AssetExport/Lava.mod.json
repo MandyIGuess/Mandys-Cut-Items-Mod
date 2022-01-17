@@ -1,0 +1,39 @@
+{
+  "_fv": 23,
+  "_type": "fluid",
+  "definition": {
+    "name": "Lava",
+    "bucketName": "Lava Bucket",
+    "textureStill": "oldestlava",
+    "textureFlowing": "oldestlava",
+    "canMultiply": false,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 300,
+    "type": "LAVA",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:CutItemsCreativeTab"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

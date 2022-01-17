@@ -1,0 +1,11 @@
+{
+  "_fv": 23,
+  "_type": "tab",
+  "definition": {
+    "name": "Cut Items Mod",
+    "icon": {
+      "value": "CUSTOM:MissingTexture"
+    },
+    "showSearch": false
+  }
+}
